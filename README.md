@@ -1,3 +1,5 @@
+
+# zmieniny plik readme
 # Customer Insights App
 
 Aplikacja do analizy opinii klientów.  
@@ -13,3 +15,5 @@ Pozwala wczytywać dane z recenzji, analizować sentyment i wyświetlać wyniki 
 pip install -r requirements.txt
 python src/sentiment_analysis.py
 ```
+
+# zmiana do zdania 11 w plku readme
